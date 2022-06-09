@@ -3,9 +3,9 @@ dotfiles of my costume Openbox configuration
 # Dotfiles
   - OS : Arch Linux
   - WM : Openbox
-  - Terminal : URxvt x Termite
-  - Shell : Zsh
-  - Panel : Tint
+  - Terminal : Kitty
+  - Shell : Bash
+  - Panel : Polybar
   - Compositor : Picom
 
 
